@@ -1,0 +1,27 @@
+.news-div{
+    height: 220px;
+    width: 100%;
+    margin-top: 10px;
+    font-size: 14px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    font-family: 'Lato', sans-serif;
+}
+#navbar {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    background-color: rgb(241, 203, 209);
+    height: 80px;
+    font-family: 'Lato', sans-serif;
+  }
+  #query{
+    width: 70%;
+    height: 35px;
+    border-radius: 10px;
+    margin: auto;
+  }
+  h4,a{
+      font-size: 25px;
+      text-decoration: none;
+      margin: auto;
+  }
